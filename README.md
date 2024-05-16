@@ -1,7 +1,9 @@
-<h1>Hi, I'm Tip! <br/>
+<h1>Hi, I'm Tip! </h1>
 
 <h2>👨‍💻 Projects:</h2>
-- <b>Coming Soon</b>
+
+- <b>Resource Groups in Azure</b>
+  - [Creating Resource Groups](https://github.com/tipros/AzureResourceGroups)
 
 <h2> 🤳 Connect with me:</h2>
 
