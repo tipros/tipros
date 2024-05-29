@@ -6,6 +6,9 @@
   - [Creating Resource Groups](https://github.com/tipros/AzureResourceGroups)
 - <b>Public IP Address</b>
   - [Creating Public IP Address](https://github.com/tipros/PublicIpAddres)
+- <b>VM in Azure</b>
+  - [Creating a VM](https://github.com/tipros/AzureVM/)
+
     
 <h2> 🤳 Connect with me:</h2>
 
