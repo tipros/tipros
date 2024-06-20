@@ -4,6 +4,7 @@
 
 - <b>Resource Groups in Azure</b>
   - [Creating Resource Groups](https://github.com/tipros/AzureResourceGroups)
+  - [Locking Resource Groups](https://github.com/tipros/AzureGroupLock)
 - <b>Public IP Address</b>
   - [Creating Public IP Address](https://github.com/tipros/PublicIpAddres)
 - <b>VM in Azure</b>
