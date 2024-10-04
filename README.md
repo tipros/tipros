@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hey, my name is Tip 👋
+
+I’m currently learning about data science with Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> </a> 
+
+Below are some of my projects:
+- Project 1
+- Project 2
 
 <!--
 **tipros/tipros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
