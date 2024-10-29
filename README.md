@@ -1,6 +1,6 @@
 ## Hi there! Welcome to my Github Profile! 👋
 
-I am Tip and I am learning about data analytics and data science with Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a> and Excel.
+I am Tip and I am learning about data analytics and data science with Python <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a> and Excel <img src="https://github.com/tipros/Portfolio/blob/main/Projects/Excel/excel-logo-0.png" alt="excel" width="15" height="15"/>.
 
 Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
 
