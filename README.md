@@ -7,7 +7,7 @@
 
 I’m on an exciting journey exploring Microsoft Azure AI, data analytics, and data science using Python. I’m passionate about turning data into insights and crafting intelligent solutions.
 
-📂 Explore my <a href="https://github.com/tipros/tipros">portfolio</a> to discover:
+📂 Explore my <a href="https://github.com/tipros/Portfolio">portfolio</a> to discover:
 - 🧠 Hands-on projects & micro-projects
 - 🎓 Technical skills & certifications
 - 🏆 Achievements that reflect my learning path
