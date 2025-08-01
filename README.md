@@ -1,5 +1,8 @@
 ## Hi there, I am Tip! 👋
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tip-ros/)
+[![YouTube](https://img.shields.io/badge/microsoft-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://learn.microsoft.com/en-us/users/tipros-8388/) 
+
 I’m on an exciting journey exploring Microsoft Azure AI, data analytics, and data science using Python. I’m passionate about turning data into insights and crafting intelligent solutions.
 
 📂 Explore my portofilo to discover:
