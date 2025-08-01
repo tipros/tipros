@@ -25,7 +25,7 @@ I’m on an exciting journey exploring Microsoft Azure AI, data analytics, and d
 </p>
 
 ---
-Check out my Portfolio for all of my projects, micro-projects, skills, certificates, and achievements.
+Check out my <a href="https://github.com/tipros/tipros">Portfolio</a> for all of my projects, micro-projects, skills, certificates, and achievements.
 
 <!--
 **tipros/tipros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
