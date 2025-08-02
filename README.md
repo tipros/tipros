@@ -2,6 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tip-ros/)
 [![YouTube](https://img.shields.io/badge/microsoft-%23FF0000.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://learn.microsoft.com/en-us/users/tipros-8388/) 
+[![Credly](https://img.shields.io/badge/credly-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.credly.com/users/tip-ros.9cb6993d/badges#credly)
 
 ---
 
