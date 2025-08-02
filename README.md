@@ -1,3 +1,5 @@
+<img src="https://github.com/tipros/tipros/blob/main/ai-banner.jpg" alt="banner"/>
+
 ## Hi there, I am Tip! 👋
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tip-ros/)
