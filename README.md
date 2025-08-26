@@ -26,6 +26,13 @@ I’m on an exciting journey exploring Microsoft Azure AI, data analytics, and d
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VSCode Logo" width="50" height="50"/>
 </p>
 
+---
+
+![GitHub stats](https://github-readme-stats-alpha-blush-52.vercel.app/api?username=tipros&count_private=true&show_icons=true&hide=issues,contribs,prs&show=prs_merged)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tipros)
+
+
 <!--
 **tipros/tipros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
